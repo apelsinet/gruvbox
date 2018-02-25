@@ -447,6 +447,7 @@ call s:HL('GruvboxAqua', s:aqua)
 call s:HL('GruvboxAquaBold', s:aqua, s:none, s:bold)
 call s:HL('GruvboxOrange', s:orange)
 call s:HL('GruvboxOrangeBold', s:orange, s:none, s:bold)
+call s:HL('GruvboxOrangeItalic', s:orange, s:none, s:italic)
 
 call s:HL('GruvboxRedSign', s:red, s:sign_column, s:invert_signs)
 call s:HL('GruvboxGreenSign', s:green, s:sign_column, s:invert_signs)
@@ -1105,7 +1106,7 @@ hi! link javascriptVariable GruvboxOrange
 " hi! link javascriptVariable GruvboxRed
 " hi! link javascriptIdentifier GruvboxOrange
 " hi! link javascriptClassSuper GruvboxOrange
-hi! link javascriptIdentifier GruvboxOrange
+hi! link javascriptIdentifier GruvboxOrangeItalic
 hi! link javascriptClassSuper GruvboxOrange
 
 " hi! link javascriptFuncKeyword GruvboxOrange
