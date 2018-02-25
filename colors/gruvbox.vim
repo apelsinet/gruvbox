@@ -1081,25 +1081,25 @@ hi! link javascriptClassName GruvboxYellow
 hi! link javascriptClassSuperName GruvboxYellow
 hi! link javascriptGlobal GruvboxYellow
 
-hi! link javascriptEndColons GruvboxFg1
-hi! link javascriptFuncArg GruvboxFg1
-hi! link javascriptGlobalMethod GruvboxFg1
-hi! link javascriptNodeGlobal GruvboxFg1
-hi! link javascriptBOMWindowProp GruvboxFg1
-hi! link javascriptArrayMethod GruvboxFg1
-hi! link javascriptArrayStaticMethod GruvboxFg1
-hi! link javascriptCacheMethod GruvboxFg1
-hi! link javascriptDateMethod GruvboxFg1
-hi! link javascriptMathStaticMethod GruvboxFg1
+hi! link javascriptEndColons GruvboxAqua
+hi! link javascriptFuncArg GruvboxAqua
+hi! link javascriptGlobalMethod GruvboxBlue
+hi! link javascriptNodeGlobal GruvboxBlue
+hi! link javascriptBOMWindowProp GruvboxBlue
+hi! link javascriptArrayMethod GruvboxBlue
+hi! link javascriptArrayStaticMethod GruvboxBlue
+hi! link javascriptCacheMethod GruvboxBlue
+hi! link javascriptDateMethod GruvboxBlue
+hi! link javascriptMathStaticMethod GruvboxBlue
 
 " hi! link javascriptProp GruvboxFg1
 hi! link javascriptURLUtilsProp GruvboxFg1
 hi! link javascriptBOMNavigatorProp GruvboxFg1
-hi! link javascriptDOMDocMethod GruvboxFg1
+hi! link javascriptDOMDocMethod GruvboxBlue
 hi! link javascriptDOMDocProp GruvboxFg1
-hi! link javascriptBOMLocationMethod GruvboxFg1
-hi! link javascriptBOMWindowMethod GruvboxFg1
-hi! link javascriptStringMethod GruvboxFg1
+hi! link javascriptBOMLocationMethod GruvboxBlue
+hi! link javascriptBOMWindowMethod GruvboxBlue
+hi! link javascriptStringMethod GruvboxBlue
 
 hi! link javascriptVariable GruvboxOrange
 " hi! link javascriptVariable GruvboxRed
@@ -1141,10 +1141,10 @@ hi! link javascriptDocNamedParamType GruvboxFg4
 
 hi! link javascriptBrackets GruvboxFg1
 hi! link javascriptDOMElemAttrs GruvboxFg1
-hi! link javascriptDOMEventMethod GruvboxFg1
-hi! link javascriptDOMNodeMethod GruvboxFg1
-hi! link javascriptDOMStorageMethod GruvboxFg1
-hi! link javascriptHeadersMethod GruvboxFg1
+hi! link javascriptDOMEventMethod GruvboxBlue
+hi! link javascriptDOMNodeMethod GruvboxBlue
+hi! link javascriptDOMStorageMethod GruvboxBlue
+hi! link javascriptHeadersMethod GruvboxBlue
 
 hi! link javascriptAsyncFuncKeyword GruvboxRed
 hi! link javascriptAwaitFuncKeyword GruvboxRed
